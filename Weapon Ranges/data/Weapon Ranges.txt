@@ -61,6 +61,7 @@ outfit "Energy Blaster"
 		"acceleration" -.1
 		"drag" .01
 		"range override" 1020
+		"velocity override" 16
 
 outfit "Blaster Turret"
 	weapon
@@ -69,6 +70,7 @@ outfit "Blaster Turret"
 		"acceleration" -.1
 		"drag" .01
 		"range override" 1020
+		"velocity override" 16
 
 outfit "Quad Blaster Turret"
 	weapon
@@ -77,6 +79,7 @@ outfit "Quad Blaster Turret"
 		"acceleration" -.1
 		"drag" .01
 		"range override" 1020
+		"velocity override" 16
 
 outfit "Modified Blaster"
 	weapon
