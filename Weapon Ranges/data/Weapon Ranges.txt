@@ -41,12 +41,37 @@ outfit "Pulse Turret"
 		"velocity" 25
 		"lifetime" 36
 
+outfit "Tripulse Shredder"
+	weapon
+		"velocity" 25
+		"lifetime" 36
+
+outfit "Penta Pulser"
+	weapon
+		"velocity override" 17
+		"range override" 1200
+		
+outfit "Pulse Submunition"
+	weapon
+		"velocity" 17
+		"lifetime" 70.6
+
 outfit "Ion Cannon"
 	weapon
 		"velocity" 30
 		"lifetime" 54
 		"cluster"
 		"parallel"
+
+outfit "Ionic Blaster Prototype"
+	weapon
+		"velocity" 36
+		"lifetime" 30
+
+outfit "Ionic Turret Prototype"
+	weapon
+		"velocity" 18
+		"lifetime" 94
 
 outfit "Railgun"
 	weapon
@@ -62,32 +87,19 @@ outfit "rslug"
 
 outfit "Energy Blaster"
 	weapon
-		"velocity" 22
-		"lifetime" 110
-		"acceleration" -.1
-		"drag" .01
-		"range override" 1020
-		"velocity override" 16
+		"velocity" 10.625
+		"lifetime" 96
 
 outfit "Blaster Turret"
 	weapon
-		"velocity" 22
-		"lifetime" 110
-		"acceleration" -.1
-		"drag" .01
-		"range override" 1020
-		"velocity override" 16
+		"velocity" 10.625
+		"lifetime" 96
 
 outfit "Quad Blaster Turret"
 	weapon
-		"velocity" 22
-		"lifetime" 120
-		"acceleration" -.1
-		"drag" .01
-		"range override" 1020
-		"velocity override" 16
+		"velocity" 10.625
+		"lifetime" 96
 		"cluster"
-		"parallel"
 
 outfit "Modified Blaster"
 	weapon
@@ -95,6 +107,28 @@ outfit "Modified Blaster"
 		"lifetime" 40
 
 outfit "Modified Blaster Turret"
+	weapon
+		"velocity" 24
+		"lifetime" 40
+
+outfit "Twin Blaster"
+	weapon
+		"lifetime" 0
+		"velocity override" 10.625
+		"range override" 1020
+
+outfit "Twin Modified Blaster"
+	weapon
+		"lifetime" 0
+		"velocity override" 24
+		"range override" 960
+
+outfit "Blaster Submunition"
+	weapon
+		"velocity" 10.625
+		"lifetime" 96
+
+outfit "Modified Blaster Submunition"
 	weapon
 		"velocity" 24
 		"lifetime" 40
@@ -191,6 +225,11 @@ outfit "Ka'het Annihilator"
 		"velocity" 21
 		"lifetime" 60
 
+outfit "Ka'het Annihilator Turret"
+	weapon
+		"range override" 1260
+		"velocity override" 21
+
 outfit "Annihilator Projectile"
 	weapon
 		"velocity" 21
@@ -202,18 +241,29 @@ outfit "Ka'het Emergency Deployer"
 		"lifetime" 400
 		"range override" 600
 
-outfit "Korath Grab-Strike"
+outfit "Grab-Strike Turret"
 	weapon
 		"velocity" 15
 		"lifetime" 134
+		"acceleration" 1
+		"drag" .05
+		"cluster"
+		
+outfit "Shunt-Strike Turret"
+	weapon
+		
+		"velocity" 12.5
+		"lifetime" 130
+		"acceleration" 1
+		"drag" .05
 		"cluster"
 
-outfit "Korath Repeater"
+outfit "Thermal Repeater"
 	weapon
 		"velocity" 16
 		"lifetime" 65
 
-outfit "Korath Repeater Turret"
+outfit "Thermal Repeater Turret"
 	weapon
 		"velocity" 16
 		"lifetime" 65
@@ -225,7 +275,7 @@ outfit "Korath Detainer"
 		"cluster"
 		"parallel"
 
-outfit "Korath Minelayer"
+outfit "Cluster Mine Layer"
 	weapon
 		"velocity" 4
 		"lifetime" 150
@@ -235,6 +285,21 @@ outfit "Korath Mine Submunition"
 	weapon
 		"acceleration" .0002
 		"drag" .1
+		
+outfit "Langrage Hyper-Heaver"
+	weapon
+		velocity 30
+		lifetime 8
+		
+outfit "Heaver Shard"
+		"velocity" 10
+		"random velocity" 1.5
+		"lifetime" 20
+		"random lifetime" 7.5
+
+outfit "Heaver Splinter"
+		"lifetime" 20
+		"random lifetime" 7.5
 
 outfit "Pug Gridfire Turret"
 	weapon
