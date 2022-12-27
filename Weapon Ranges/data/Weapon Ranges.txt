@@ -346,3 +346,43 @@ outfit "Heavy Ion Fragment"
 		"random velocity" 22
 		"lifetime" 40
 		"random lifetime" 12.8
+
+outfit "Irate Cannon"
+	weapon
+		"velocity" 33
+		"lifetime" 20
+
+outfit "Irate Cannon Turret"
+	weapon
+		"velocity" 33
+		"lifetime" 20
+
+outfit "Choleric Cannon"
+	weapon
+		"velocity" 12.1
+		"lifetime" 100
+
+outfit "Choleric Cannon Turret"
+	weapon
+		"velocity" 12.1
+		"lifetime" 100
+
+outfit "Ballistic Cannon"
+	weapon
+		"velocity" 8
+		"lifetime" 200
+
+outfit "Ballistic Cannon Turret"
+	weapon
+		"velocity" 8
+		"lifetime" 200
+
+outfit "Astuit Battery"
+	weapon
+		"velocity" 12.5
+		"lifetime" 56.4
+
+outfit "Acuit Artillery"
+	weapon
+		"velocity" 28
+		"lifetime" 77
