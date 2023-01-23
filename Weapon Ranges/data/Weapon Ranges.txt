@@ -45,7 +45,6 @@ outfit "Tripulse Shredder"
 	weapon
 		"velocity" 25
 		"lifetime" 36
-		"cluster"
 
 outfit "Penta Pulser"
 	weapon
