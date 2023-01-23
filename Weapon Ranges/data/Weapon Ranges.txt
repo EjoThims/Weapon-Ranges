@@ -45,11 +45,13 @@ outfit "Tripulse Shredder"
 	weapon
 		"velocity" 25
 		"lifetime" 36
+		"cluster"
 
 outfit "Penta Pulser"
 	weapon
 		"velocity override" 17
 		"range override" 1200
+		"cluster"
 		
 outfit "Pulse Submunition"
 	weapon
@@ -73,7 +75,18 @@ outfit "Ionic Turret Prototype"
 		"velocity" 18
 		"lifetime" 94
 
+outfit "Octa Annihilator"
+	weapon
+		"velocity" 15
+		"lifetime" 300
+
 outfit "Railgun"
+	weapon
+		"velocity" 66
+		"lifetime" 1
+		"range override" 4000
+
+outfit "Quad Railgun Turret"
 	weapon
 		"velocity" 66
 		"lifetime" 1
@@ -251,7 +264,6 @@ outfit "Grab-Strike Turret"
 		
 outfit "Shunt-Strike Turret"
 	weapon
-		
 		"velocity" 12.5
 		"lifetime" 130
 		"acceleration" 1
@@ -290,6 +302,7 @@ outfit "Langrage Hyper-Heaver"
 	weapon
 		velocity 30
 		lifetime 8
+		"cluster"
 		
 outfit "Heaver Shard"
 		"velocity" 10
@@ -299,7 +312,7 @@ outfit "Heaver Shard"
 
 outfit "Heaver Splinter"
 		"lifetime" 20
-		"random lifetime" 7.5
+		"random lifetime" 9.5
 
 outfit "Pug Gridfire Turret"
 	weapon
