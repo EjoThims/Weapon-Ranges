@@ -1,3 +1,4 @@
+# Heliarch
 outfit "Bombardment Cannon"
 	weapon
 		"velocity" 8
@@ -31,6 +32,7 @@ outfit "Ion Rain Gun"
 		"lifetime" 25
 		"random lifetime" 10
 
+# Hai
 outfit "Pulse Cannon"
 	weapon
 		"velocity" 25
@@ -97,6 +99,7 @@ outfit "rslug"
 		"acceleration" 4
 		"drag" .1
 
+# Human
 outfit "Energy Blaster"
 	weapon
 		"velocity" 10.625
@@ -225,6 +228,7 @@ outfit "gbullet"
 		"lifetime" 30
 		"random lifetime" 8
 
+# Ka'het
 outfit "Ka'het Nullifier"
 	weapon
 		"velocity" 9
@@ -253,6 +257,7 @@ outfit "Ka'het Emergency Deployer"
 		"lifetime" 400
 		"range override" 600
 
+# Korath
 outfit "Grab-Strike Turret"
 	weapon
 		"velocity" 15
@@ -313,11 +318,13 @@ outfit "Heaver Splinter"
 		"lifetime" 20
 		"random lifetime" 9.5
 
+# Pug
 outfit "Pug Gridfire Turret"
 	weapon
 		"velocity" 2880
 		"lifetime" 1
 
+# Remnant
 outfit "Inhibitor Cannon"
 	weapon
 		"velocity" 62
@@ -340,6 +347,7 @@ outfit "Thrasher Turret"
 		"velocity" 12
 		"lifetime" 60
 
+# Sheragi
 outfit "Particle Waveform Turret"
 	weapon
 		"velocity" 60
@@ -359,6 +367,7 @@ outfit "Heavy Ion Fragment"
 		"lifetime" 40
 		"random lifetime" 12.8
 
+# Gegno
 outfit "Irate Cannon"
 	weapon
 		"velocity" 33
@@ -398,3 +407,28 @@ outfit "Acuit Artillery"
 	weapon
 		"velocity" 28
 		"lifetime" 77
+
+# Bunrodea
+outfit "Locust Blaster"
+	weapon
+		"velocity" 18
+		"random velocity" 8
+		"lifetime" 40
+		"range override" 960
+
+outfit "Locust Turret"
+	weapon
+		"velocity" 18
+		"random velocity" 8
+		"lifetime" 40
+		"range override" 960
+
+outfit "Mandible Cannon"
+	weapon
+		"velocity" 51.5
+		"lifetime" 33
+
+outfit "Mandible Cannon"
+	weapon
+		"velocity" 20
+		"lifetime" 180
